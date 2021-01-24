@@ -16,3 +16,6 @@ A first function is usedin this specific implementation to show 10 random rows f
 A second cloud function is used to retrieve the data structure.
 
 WIP: Expose the enpoints also on flask-ngrok instead of Cloud Functions.
+
+Detailed steps can be found on felyx.ipynb notebook.
+
